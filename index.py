@@ -26,3 +26,4 @@ def dados():
 server = WSGIServer(('localhost', 5000), app)
 server.serve_forever()
 
+//atualizado//
